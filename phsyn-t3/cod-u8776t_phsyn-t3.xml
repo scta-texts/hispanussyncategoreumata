@@ -835,20 +835,12 @@
           <p xml:id="phsyn-t3-d1e378"><pc type="#pilcrow"/>Solutio.
             Di<lb ed="#T"/>co quod prima est falsa et impossibilis, sicut prius dictum est, quia ponit
             contradic<lb ed="#T"/>tionem, sicut prius patuit duplici ratione. <pc type="#pilcrow"/>Ad primam autem
-            positio<lb ed="#T"/>nem dicendum quod ponit duo <seg type="correction">im
-                <subst>
-                    <add>com</add>
-                  </subst>
-                </seg>possibilia. Et concedo quod utrumque eorum est possibile <add place= "margin right">secundum</add>
+            positio<lb ed="#T"/>nem dicendum quod ponit duo <seg type="correction">im<add>com</add>possibilia</seg>. Et concedo quod utrumque eorum est possibile <add place= "margin right">secundum</add>
             <lb ed="#T"/> se <add place="right-margin">sed ambo insimul sunt incompossibilia. Quia hoc est possibile secundum se</add>, scilicet quod tantum sint illi tres homines non videntes se, et aliud
             <lb ed="#T"/> similiter est possibile secundum se, scilicet quod Sortes videat tantum illos tres.
             <pb ed="#T" n="33-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/> Sed ambo insimul sunt <seg type="correction">im
-                <subst>
-                    <add>com</add>
-                  </subst>
-                </seg>possibilia. Quod sic patet, quia: Quando ponit quod isti
+            <lb ed="#T"/> Sed ambo insimul sunt <seg type="correction">im<add>com</add>possibilia</seg>. Quod sic patet, quia: Quando ponit quod isti
             <lb ed="#T"/> tres sint non videntes <add place="above-margin">se</add>, in hoc ponit quod Sortes ‘videat se, cum non
             <lb ed="#T"/> sit de numero illorum. Et quando ponit quod Sortes videat tantum illos tres,
             <lb ed="#T"/> in hoc ponit quod Sortes non videat se, cum <add place="left_margin">non</add> sit de his. Et ita ponit
